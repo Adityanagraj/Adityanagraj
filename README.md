@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: 🐍
 - 🌱 I’m currently learning: ML+Devops=MLops
 - 👯 I’m looking to collaborate on: Open source and hackothon projects 🤝
-- 🤔 I’m looking for help with: Data stuctures and algo 😶
+- 🤔 I’m looking for help with: Data structures and algo 😶
 - 💬 Let's talk about: Science🔭 Books📚 Tech💻
 - 📫 How to reach me: https://twitter.com/nagraj1999
 - 😄 Pronouns: Getting one soon 🤗
