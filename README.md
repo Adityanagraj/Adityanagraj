@@ -1,4 +1,4 @@
-### Namaste 🙏 Let's Begin
+### Namaste 🙏 I am Aditya N
 
 
 <!--**Adityanagraj/Adityanagraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -15,3 +15,4 @@
 - ⚡ Fun fact: Google it 👀
 - 💡 Have a glimpse of what I do: https://github.com/Adityanagraj/covid-19-whatsupBot 
 
+<img src='https://github-readme-stats.vercel.app/api?username=adityanagraj&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=F8E9FA'>
