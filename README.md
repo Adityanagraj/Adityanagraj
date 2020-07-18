@@ -12,7 +12,7 @@
 - 💬 Let's talk about: Science🔭 Books📚 Tech💻
 - 📫 How to reach me: https://twitter.com/nagraj1999
 - 😄 Pronouns: Getting one soon 🤗
-- ⚡ Fun fact: Google it 👀
+- ⚡ Fun fact: Google it 
 - 💡 Have a glimpse of what I do: https://github.com/Adityanagraj/covid-19-whatsupBot 
 
 <img src='https://github-readme-stats.vercel.app/api?username=adityanagraj&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=F8E9FA'>
