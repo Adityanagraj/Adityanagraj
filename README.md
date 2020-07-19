@@ -3,7 +3,9 @@
 
 <!--**Adityanagraj/Adityanagraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=525)](https://www.linkedin.com/in/aditya-n-02a0a8192/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=525)](https://www.linkedin.com/in/aditya-n-02a0a8192/)&nbsp;
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow)](https://twitter.com/Adityanagraj)
+
  
 - 🔭 I’m currently working on: 🐍
 - 🌱 I’m currently learning: ML+Devops=MLops
