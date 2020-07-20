@@ -4,8 +4,9 @@
 <!--**Adityanagraj/Adityanagraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=525)](https://www.linkedin.com/in/aditya-n-02a0a8192/)&nbsp;
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow)](https://twitter.com/nagraj1999)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-Medium-black.svg?style=flat-square&logo=Medium&colorB=000)](https://www.linkedin.com/in/aditya-n-02a0a8192/)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/nagraj1999)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-Medium-black.svg?style=flat-square&logo=Medium&colorB=000)](https://medium.com/@aditya.nagraj1999)
+
 
  
 - 🔭 I’m currently working on: 🐍
