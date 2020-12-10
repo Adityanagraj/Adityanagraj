@@ -15,7 +15,6 @@
 - 🤔 I’m looking for help with: Data structures and algo 😶
 - 💬 Let's talk about: Science🔭 Books📚 Tech💻
 - 📫 How to reach me: https://twitter.com/nagraj1999
-- 😄 Pronouns: Getting one soon 🤗
 - ⚡ Fun fact: Google it 👀
 - 💡 Have a glimpse of what I do: https://github.com/Adityanagraj/covid-19-whatsupBot 
 
